@@ -1,6 +1,6 @@
 # Data Analysis of Influenza Preparedness of Hospitals in the US using Tableau
 
-## Introduction
+## Overview
 This project analyses the preparedness of hospitals for influenza season in the US and forecasts of influenza cases in 2018 using Tableau.
 
 ## Objective
