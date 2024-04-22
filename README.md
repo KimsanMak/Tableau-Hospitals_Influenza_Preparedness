@@ -17,4 +17,5 @@ The datasets used for the analysis are as follows:
 2. Population data by geography, time, age and gender provided by Career Foundry, accessed via [US Census Bureau](https://www.census.gov/programs-surveys/decennial-census/data/datasets.2010.html)
 
 ## Tools
-The different tables were checked and cleaned using Excel, and then generated plots for analysis using Tableau Public. The final visualizations and dashboards can be viewed on [Tableau Public](https://public.tableau.com/app/profile/kimsan.mak/viz/ProjectInfluenzaPreparedness/Story1) 
+The different tables were checked and cleaned using Excel, and then generated plots for analysis using Tableau Public. 
+***The storyboard of the project can be viewed in [Tableau Public](https://public.tableau.com/app/profile/kimsan.mak/viz/ProjectInfluenzaPreparedness/Story1)***
