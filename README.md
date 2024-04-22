@@ -1,7 +1,7 @@
-# Data Analysis of Influenza Preparedness of Hospitals in the US using Tableau
+# Public Health: Influenza Season Preparedness
 
 ## Overview
-This project analyses the preparedness of hospitals for influenza season in the US and forecasts of influenza cases in 2018 using Tableau.
+This project analysed the preparedness of hospitals for influenza season in the US and forecasts of influenza cases in 2018 using Tableau.
 
 ## Objective
 To help staffing agencies maintain the hospital's staff-to-patient ratio above 1.1, with no additional funds to hire more hospital staff.
@@ -9,7 +9,7 @@ To help staffing agencies maintain the hospital's staff-to-patient ratio above 1
 Key questions to be answered:
 1. What is the distribution of influenza deaths by age and region?
 2. What factors are correlated with influenza deaths?
-3. Forcast influenza deaths into 2018 and 2019?
+3. Forcast influenza deaths into 2018 and 2019.
 
 ## Data
 The datasets used for the analysis are as follows:
